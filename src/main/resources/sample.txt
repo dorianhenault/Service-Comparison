@@ -1,0 +1,1 @@
+[{Memory, CodeWriter}, {Function, testReader, ShortcutTest, Shortcut, parser, Main, BfckContainer, CommandPerform}, {BfWriter, MultiIncrDecr, ExecuteException}, {Bfck, Arguments}]
